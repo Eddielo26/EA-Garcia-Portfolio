@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}    
+    
+header {
+    padding: 20px 35px;
+    background-color: #39a6b2;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+header h1, a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: maroon;
+    text-decoration:none;
+}
+header nav {
+    margin: 7px 0;
+}
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
+
+header nav ul li a {
+    padding: 10px 15px;
+    font-weight: lighter;
+    font-size: 1.55vw;
+}
+
+.intro {
+    background-image: url("../images/hero.jpg");
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.myself h2 {
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px;
+}
+
+#about-me p {
+    display: flex;
+    justify-content: center;
+}
+
+
+.my-stuff h2 {
+    display: flex;
+    justify-content: flex-start;
+    margin: 20px;
+}
+
+.my-stuff img {
+   margin: center;
+    width: 560px;
+    height: 200px;
+    border: rebeccapurple 3px solid;
+    border-radius: 15px;
+}
+footer {
+    background: #39a6b2;
+    width: 100%;
+    padding: 40px 35px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+footer h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: maroon;
+    font-size: 30px;
+    margin: 0;
+}
+
+
+footer div ul li {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+}
