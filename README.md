@@ -16,3 +16,6 @@
 * cell
 * email
 * github
+
+# Website
+*https://eddielo26.github.io/EA-Garcia-Portfolio/
