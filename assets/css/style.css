@@ -174,15 +174,23 @@ footer ul {
         font-size: 15px;
     }
 
+    .myself img { 
+        height: 150px;
+        width: 150px;
+        top: 38%;
+    }
+
     .my-stuff img {
         width: 430px;
         height: 180px;
 
     }
-
     footer {
-        text-align: center;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
     }
+
 }
 
 @media screen and (max-width: 500px) {
@@ -191,8 +199,13 @@ footer ul {
         width: 280px;
         height: 100px;
     }
+
+    .myself img { 
+        height: 120px;
+        width: 120px;
+        top: 35%;
+    }
     footer h2 {
-        width: 100%;
         text-align: center;
     }
 
