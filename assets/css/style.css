@@ -104,18 +104,18 @@ footer {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    align-items: stretch;
 }
 
-footer h2 {
+footer {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: maroon;
-    font-size: 30px;
+    font-size: 20px;
     margin: 0;
 }
-
-.contacts ul {
+footer ul {
     display: flex;
     flex-wrap: wrap;
-    list-style: none;   
+    list-style: none; 
+    margin: 10px 10px;  
 }
-
