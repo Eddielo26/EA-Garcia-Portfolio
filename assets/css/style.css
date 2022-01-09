@@ -112,6 +112,10 @@ header nav ul li a {
     opacity: 0.5;
     
 }
+
+.my-stuff p {
+    padding: inherit;
+}
 footer {
     background: #39a6b2;
     padding: 40px 35px;
@@ -223,6 +227,10 @@ footer {
 @media screen and (max-width: 375px){
     #about-me p {
         top: 68%;
+    }
+
+    footer {
+        padding: 4px 2px;
     }
 
 }
