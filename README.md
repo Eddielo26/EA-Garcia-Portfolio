@@ -18,10 +18,8 @@
 * github
 
 # Website
+![Screen Shot 2022-04-11 at 8 28 42 PM](https://user-images.githubusercontent.com/94813193/162874630-d050b7e3-f0ac-4954-9db0-f083a0d4b376.png)
 
-<img width="1161" alt="Screen Shot 2022-02-11 at 5 34 23 AM" src="https://user-images.githubusercontent.com/94813193/153600742-dbb96672-2180-4a3b-8deb-0e95625fd3af.png">
-
-<img width="1099" alt="Screen Shot 2022-02-11 at 5 34 32 AM" src="https://user-images.githubusercontent.com/94813193/153600796-da02ce16-2ebd-4919-ae7b-daaf6af3c989.png">
 
 
 *https://eddielo26.github.io/EA-Garcia-Portfolio/
